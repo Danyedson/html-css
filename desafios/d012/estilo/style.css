@@ -18,4 +18,9 @@ header {
 
 header > h1 {
     padding: 50px;
+    font-variant: small-caps;
+}
+
+header > p {
+    padding-bottom: 50px;
 }
