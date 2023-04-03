@@ -20,7 +20,7 @@
 html, body {
     background-color: rgb(190, 164, 164);
     min-height: 100vh;
-    font-family: var(--fonte2);
+    font-family: var(--fonte1);
     
 }
 
@@ -28,11 +28,13 @@ header {
     background-color: rgb(16, 1, 1);
     color: white;
     text-align: center;
+    font-family: var(--fonte2);
 } 
 
 header > h1 {
     padding: 50px;
     font-variant: small-caps;
+    font-size: 50px;
 }
 
 header > p {
